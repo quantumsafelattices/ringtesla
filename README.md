@@ -1,4 +1,4 @@
-This code implements the Ring-TESLA signature scheme using parameters described in Improved Parameters for the Ring-TESLA Digital Signature Scheme by Arjun Chopra (eprint.iacr.org/2016/1099). 
+This code implements the Ring-TESLA signature scheme using parameters described in Improved Parameters for the Ring-TESLA Digital Signature Scheme by Arjun Chopra (https://eprint.iacr.org/2016/1099). 
 
 Example uses of key generation, signing and verifying are given in test.c.
 
