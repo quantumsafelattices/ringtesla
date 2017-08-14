@@ -2,4 +2,5 @@ This code implements the Ring-TESLA signature scheme using parameters described 
 
 Example uses of key generation, signing and verifying are given in test.c.
 
+
 Compile with 'make all'. This will compile test.c for n=1024,827,709. Then run test_827, test_709, test_1024
